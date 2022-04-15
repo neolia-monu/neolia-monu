@@ -1,4 +1,16 @@
-### Hi there 👋
+<h2>👋 Hi there! I'm Monu </h2>
+
+---
+
+- 😄 My Pronouns: He/Him   
+- 💬 Ask me about: Java, Python, PHP, Go
+- 🌱 I’m currently learning SpringBoot, Spring Security
+- 🔭 Technology: Docker, Kubernetes, Jenkins
+- 📫 How to reach me: &nbsp; • [Twitter](https://twitter.com/neoliamonu) &nbsp; • &nbsp;[Linkedin](https://www.linkedin.com/in/monu-neolia-687571234/)
+              &nbsp; • &nbsp;<a href="mailto:neoliamonu@gmail.com">Mail</a>
+- ⚡ Fun fact: I play chess  &nbsp; • [neolia-monu](https://www.chess.com/member/neolia-monu) 
+
+<h3>Feel free to ping me for contributions or team-up.</h3>
 
 <!--
 **neolia-monu/neolia-monu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
